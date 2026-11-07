@@ -3,3 +3,4 @@ git init
 git add
 git commit
 rm
+hhd hjwdhee hdh 
